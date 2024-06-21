@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Islam Abdelmajeed</h1>
 <h4 align="center">I'm a Flutter Developer, always seeking new challenges and opportunities to innovate; I love building apps and exploring new technologies</h4>
+<hr>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=islam-abdelmajeed&label=Profile%20views&color=0e75b6&style=flat" alt="islam-abdelmajeed" /> </p>
@@ -16,6 +17,9 @@
 
 - 📫 How to reach me **islam.abdelmajeed20@gmail.com**
 
+- 📄 Know about my experiences <a href="https://flowcv.com/resume/ucea87nn22">My Resume</a>
+
+<hr>
 <br>
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">

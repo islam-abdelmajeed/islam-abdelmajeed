@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&random=false&width=1000&height=200&lines=Hi+%F0%9F%91%8B%2C+I'm+Islam+Majeed;FLutter+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&random=false&width=1000&height=200&lines=Hi+%F0%9F%91%8B%2C+I'm+Islam+Majeed;FLutter+Developer)](https://github.com/islam-abdelmajeed)
 
 <h1 align="center">Hi 👋, I'm Islam Abdelmajeed</h1>
 <h4 align="center">I'm a Flutter Developer, always seeking new challenges and opportunities to innovate; I love building apps and exploring new technologies</h4>

@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Flutter , Node js**
 
-- 📫 How to reach me **islam.abdelmajeed20@gmail.com**
+- 📫 How to reach me **islam.abdelmajeed2@gmail.com**
 
 - 📄 Know about my experiences <a href="https://flowcv.com/resume/ucea87nn22">My Resume</a>
 
